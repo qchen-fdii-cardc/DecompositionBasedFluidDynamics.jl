@@ -1,0 +1,13 @@
+name = "DecompositionBasedFluidDynamics"
+uuid = "6d98fd7e-5a18-4758-aa1c-1c0e0eaa22e7"
+authors = ["Qin CHEN"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
